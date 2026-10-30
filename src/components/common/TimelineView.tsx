@@ -70,3 +70,4 @@ export const TimelineView: React.FC<TimelineViewProps> = ({
     </div>
   );
 };
+

@@ -520,3 +520,4 @@ export const BrowseFoodPage: React.FC = () => {
     </div>
   );
 };
+

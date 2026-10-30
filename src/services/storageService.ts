@@ -178,3 +178,4 @@ export const storageService = {
 
 // Auto initialize on import
 storageService.initialize();
+

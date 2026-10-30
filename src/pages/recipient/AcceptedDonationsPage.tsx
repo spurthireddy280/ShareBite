@@ -169,3 +169,4 @@ export const AcceptedDonationsPage: React.FC = () => {
     </div>
   );
 };
+

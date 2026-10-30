@@ -85,3 +85,4 @@ export const Badge: React.FC<BadgeProps> = ({ status, size = 'sm', className = '
     </span>
   );
 };
+

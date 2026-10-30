@@ -195,3 +195,4 @@ ShareBite is an operational coordination tool for surplus food discovery and pic
 ## 8. License
 
 Developed for **Hackathon Statement HACK-P197**. Released under the MIT License.
+

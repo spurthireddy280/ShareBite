@@ -94,3 +94,4 @@ export const AdminActivityPage: React.FC = () => {
     </div>
   );
 };
+

@@ -225,3 +225,4 @@ export const AdminReportsPage: React.FC = () => {
     </div>
   );
 };
+

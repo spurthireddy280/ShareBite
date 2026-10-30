@@ -40,3 +40,4 @@ export const FoodSafetyNotice: React.FC<FoodSafetyNoticeProps> = ({ compact = fa
     </div>
   );
 };
+

@@ -149,3 +149,4 @@ export const RecipientHistoryPage: React.FC = () => {
     </div>
   );
 };
+
